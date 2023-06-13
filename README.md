@@ -3,8 +3,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackDunlop&layout=compact)
 
 
-Uni Projects:
+### Uni Projects:
 - https://github.com/JackDunlop/PMS
 
-Mini Home Projects:
+### Mini Home Projects:
 - https://github.com/JackDunlop/Adjaceny-Matrix
